@@ -4,8 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello Prep4 World!");
-         List<int> numbers = new List<int>();
+        List<int> numbers = new List<int>();
         
         // Please note we could use a do-while loop here instead
         int userNumber = -1;
