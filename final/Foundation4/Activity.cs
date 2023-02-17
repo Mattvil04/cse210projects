@@ -1,7 +1,7 @@
 
 class Activity
 {
-    private DateTime date;
+    protected DateTime date;
     protected int length;
 
     public Activity(DateTime date, int length)
